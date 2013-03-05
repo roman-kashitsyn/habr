@@ -4,7 +4,7 @@
 namespace miniregex
 {
 // search for regexp anywhere in text
-int match(const char *regex, const char *text);
+bool match(const char *regex, const char *text);
 }
 
 #endif /* MINIREGEX_H_ */

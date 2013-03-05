@@ -30,7 +30,7 @@
         'include/gtest/internal/gtest-linked_ptr.h',
         'include/gtest/internal/gtest-param-util-generated.h',
         'include/gtest/internal/gtest-param-util.h',
-        'include/gtest/internal/gtest-port.nh',
+        'include/gtest/internal/gtest-port.h',
         'include/gtest/internal/gtest-string.h',
         'include/gtest/internal/gtest-tuple.h',
         'include/gtest/internal/gtest-type-util.h',
